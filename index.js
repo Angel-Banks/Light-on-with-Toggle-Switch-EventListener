@@ -1,5 +1,5 @@
 var checkBox = document.getElementById ('checkBox');
-var sliderBox = document.getElementById ('sliderBox');
+
 var picBulb = document.getElementById ('pic');
 
 
